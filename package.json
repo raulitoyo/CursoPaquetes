@@ -1,0 +1,19 @@
+{
+  "name": "ejemploclase3",
+  "version": "1.0.0",
+  "description": "Ejemplo git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulitoyo/CursoPaquetes.git"
+  },
+  "author": "Raul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulitoyo/CursoPaquetes/issues"
+  },
+  "homepage": "https://github.com/raulitoyo/CursoPaquetes#readme"
+}
